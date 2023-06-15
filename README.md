@@ -7,9 +7,6 @@
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -33,10 +30,138 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/XyEeLg7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1a
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/nSpyl3O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+1
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/JWI7oFz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+2a
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/WfBAXlc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+6
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/eF3DpWa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+8
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/eF3DpWa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+9
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/339lmll.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+10
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/X8gLd5C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+11
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/mTY2Hl5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+12
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/jSTbWVp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+13-48
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/yKURgYH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+13-52
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/k5mMxPa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+14-35
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/a4eCwKs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+14-45
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/PXLx9i7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+17a
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/G0x2Aip.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+17
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/73oekUb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+28
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/o7V1xZ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+29
 </p>
 <br />
 
@@ -44,7 +169,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+text
 </p>
 <br />
 
@@ -52,6 +177,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+text
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+text
+</p>
+<br />
+
