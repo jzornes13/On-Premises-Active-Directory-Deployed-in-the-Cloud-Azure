@@ -22,12 +22,20 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Set up 2 virtual machines in azure
+  - windows 2022 server
+  - windows 10
+- use remote desktop (RDP)
+- changing inbound rules within the firewall of the domain controller to allow connectivity between the 2 vm's
+- install active directory
+- link client vm to our domain controller
+- setup rdp for non admin users
+- create 1000 users fast with a script and log into our vm with one of the newly created users
 
 <h2>Deployment and Configuration Steps</h2>
+
+-create 2 virtual machines in this case we named them dc-1 and client -1
+-
 
 <p>
 <img src="https://imgur.com/XyEeLg7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
