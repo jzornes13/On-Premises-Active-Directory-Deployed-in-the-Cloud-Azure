@@ -34,7 +34,42 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
--create 2 virtual machines in this case we named them dc-1 and client -1
+- log into Azure, there are a couple of ways to do everything in Azure, the header or center of the page click create virtual machine.
+click Azure virtual machine (VM)
+<p>
+<img src="https://imgur.com/0QMrH4G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+    
+- name your VM anything you want in this case we named it VM1
+
+- resource group is automatically given a name but you can change it.
+- change the region to your own, we used west US 3
+- choose the size of the server taking into account what you will be using it for. we chose Standard e2 v3- 2vcpus, 16 gib memory
+- create a username and password (just remember your credentials!)
+- make sure to check your box (bottom left)
+- we can go ahead and skip everything else and click review/create
+- if you get the go ahead in the form of "validation passed" click create and were good to go, let it set up your machine.
+
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/tbajTdo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+    
+-Repeat the same process for our 2nd vm but using Ubuntu for the operating system.
+
+-again name it whatever you want.
+
+-set the resource group to the same one created for the first virtual machine.
+
+-keep the size of the vcpus the same as the first machine
+
+    -also use the same location in the first one we used west US 3
+    
+Change authentication to "Password"
 -
 
 <p>
