@@ -69,8 +69,7 @@ click Azure virtual machine (VM)
 
     -also use the same location in the first one we used west US 3
     
-Change authentication to "Password"
--
+-Change authentication to "Password"
 
 <p>
 <img src="https://imgur.com/XyEeLg7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
