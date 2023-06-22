@@ -398,6 +398,8 @@ log into dc1 from azure and copy the private ip address
 </p>
 <p>
 24a
+
+ -https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1 
 </p>
 <br />
 
