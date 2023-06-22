@@ -41,7 +41,7 @@ click Azure virtual machine (VM)
 </p>
 <p>
     
-- name your VM anything you want in this case we named it VM1
+- name your VM anything you want in this case we named it dc-1
 
 - resource group is automatically given a name but you can change it.
 - change the region to your own, we used west US 3
@@ -59,9 +59,9 @@ click Azure virtual machine (VM)
 </p>
 <p>
     
--Repeat the same process for our 2nd vm but using Ubuntu for the operating system.
+-Repeat the same process for our 2nd vm but using windows 10 for the operating system.
 
--again name it whatever you want.
+-again name it whatever you want in this case we named it client-1
 
 -set the resource group to the same one created for the first virtual machine.
 
@@ -70,6 +70,8 @@ click Azure virtual machine (VM)
     -also use the same location in the first one we used west US 3
     
 -Change authentication to "Password"
+
+-here we are changing the dc controller network interface(nic) to static(so it doesn't change)
 
 <p>
 <img src="https://imgur.com/XyEeLg7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
