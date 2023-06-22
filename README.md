@@ -71,21 +71,22 @@ click Azure virtual machine (VM)
     
 -Change authentication to "Password"
 
--here we are changing the dc controller network interface(nic) to static(so it doesn't change)
+-here we are changing the dc controller network interface(nic) from dynamic to static (so it doesn't change)
+
+<p>
+<img src="https://imgur.com/nSpyl3O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+<p>
+1
+</p>
+<br />
 
 <p>
 <img src="https://imgur.com/XyEeLg7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1a
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/nSpyl3O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-1
 </p>
 <br />
 
