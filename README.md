@@ -112,7 +112,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/WfBAXlc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FZFUoHj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 6
@@ -127,7 +127,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/QgBqoWR.png" height="80%" width="80%"alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/j9jObGh.png" height="80%" width="80%"alt="Disk Sanitization Steps"/>
 </p>
 <p>
 8
@@ -135,7 +135,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/eF3DpWa.png" height="80%" width="80%"alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/wG7vr1U.png" height="80%" width="80%"alt="Disk Sanitization Steps"/>
 </p>
 <p>
 8a
@@ -160,7 +160,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/SyYziLJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/J90iXvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 9a
@@ -168,7 +168,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/XOayICj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Y3jl7qO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 9b
@@ -176,7 +176,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/339lmll.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5YAuXDw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 10
@@ -198,7 +198,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/mTY2Hl5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/emTzpSA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 11a
@@ -206,7 +206,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/KMJwINr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/bDGctFR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 11b
@@ -214,7 +214,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/hMdcgNu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/t1ThxiH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 12
@@ -233,7 +233,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/yKURgYH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/aC7TfJN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 13-52
@@ -256,7 +256,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/a4eCwKs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6A7b5Al.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 14-45
@@ -293,7 +293,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/IFT5qjZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a6fctN3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 18
@@ -304,7 +304,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/hn6yc35.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/fT9kIhy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 19
@@ -331,7 +331,7 @@ click Azure virtual machine (VM)
 
 
 <p>
-<img src="https://imgur.com/aqvkhfY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/tmknL25.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 23
@@ -342,7 +342,7 @@ click Azure virtual machine (VM)
 
 
 <p>
-<img src="https://imgur.com/LTVUuxD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/2g2ctNz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 24
@@ -352,7 +352,7 @@ click Azure virtual machine (VM)
 
 
 <p>
-<img src="https://imgur.com/a6AVjiB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/MI38rjG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 24a
@@ -366,7 +366,7 @@ click Azure virtual machine (VM)
 
 
 <p>
-<img src="https://imgur.com/73oekUb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Qq1Djuc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 28
@@ -379,7 +379,7 @@ click Azure virtual machine (VM)
 
 
 <p>
-<img src="https://imgur.com/o7V1xZ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/k20wbsL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 29
@@ -389,7 +389,7 @@ click Azure virtual machine (VM)
 <br />
 
 <p>
-<img src="https://imgur.com/4FaKFBz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/xe2Tv7A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 30
