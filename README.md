@@ -373,7 +373,7 @@ click Azure virtual machine (VM)
 
 -  go to the website below and copy the script to paste into powershell
    -  https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1 
--  after you paste in powershell scroll down to the bottom of the script look for -Path "ou=_EMPLOYEES,$(([ADSI]`"").distinguishedName)" ` that "_EMPLOYEES" needs to be spelled the same with the underscore as the file we created in active directory or it will not work you will get an error message, also worth noting if you are running powershell as a non-admin it will not work and the same for running powershell from client 1 it has to be in dc 1.
+-  after you paste in powershell scroll down to the bottom of the script look for the path "ou=_EMPLOYEES,$(([ADSI]`"").distinguishedName)" `, Now that "_EMPLOYEES" needs to be spelled the same with the underscore as the file we created in active directory or it will not work you will get an error message, also worth noting if you are running powershell as a non-admin it will not work and the same for running powershell from client 1 it has to be in dc 1.
 </p>
 <br />
 
