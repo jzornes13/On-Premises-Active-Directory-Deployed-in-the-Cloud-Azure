@@ -42,7 +42,6 @@ click Azure virtual machine (VM)
 <p>
     
 - name your VM anything you want in this case we named it dc-1
-
 - resource group is automatically given a name but you can change it.
 - change the region to your own, we used west US 3
 - choose the size of the server taking into account what you will be using it for. we chose Standard e2 v3- 2vcpus, 16 gib memory
@@ -76,7 +75,6 @@ click Azure virtual machine (VM)
 1
 
 -  click ip configurations 
-
 -  center of page click the box with the info example private ip address, ip version ect.
 </p>
 <br />
