@@ -321,8 +321,7 @@ click Azure virtual machine (VM)
 <p>
 19a
 
--copy client 1 ip address
-
+-  copy client 1 ip address
 -  log back into client one with "domain name" ours was something.com\jane_admin (make sure the slash is the right way
 -  click more choices and choose jane_admin for the username
 -  right click start menu, go to system, remote desktop(in blue, right hand side), click select users that can remotely access this pc under the user accounts heading.
@@ -373,7 +372,7 @@ click Azure virtual machine (VM)
 28
 
 -  go to the website below and copy the script to paste into powershell
- -  https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1 
+   -  https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1 
 -  after you paste in powershell scroll down to the bottom of the script look for -Path "ou=_EMPLOYEES,$(([ADSI]`"").distinguishedName)" ` that "_EMPLOYEES" needs to be spelled the same with the underscore as the file we created in active directory or it will not work you will get an error message, also worth noting if you are running powershell as a non-admin it will not work and the same for running powershell from client 1 it has to be in dc 1.
 </p>
 <br />
